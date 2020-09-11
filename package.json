@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilhermecapitao/proffy-discovery/issues"
+    "url": "https://github.com/thiagopazjs/PlataformaDeEstudos/issues"
   },
-  "homepage": "https://github.com/guilhermecapitao/proffy-discovery#readme",
+  "homepage": "https://github.com/thiagopazjs/PlataformaDeEstudos#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
